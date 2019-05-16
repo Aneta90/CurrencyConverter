@@ -31,9 +31,5 @@ public class Main {
 
         System.out.println("100 PLN you exchanged one month ago for CHF costs now " + multiConverter.convertNowAsk(chf_converter,multiConverter.convertPastBid(chf_converter,100)) + " zl " + multiConverter.interpretator(100, multiConverter.convertNowAsk(chf_converter,multiConverter.convertPastBid(chf_converter,100))));
 
-
-
-
-
     }
 }

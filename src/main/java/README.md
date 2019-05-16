@@ -1,1 +1,0 @@
-This is my project to convert currency and to count how much money we could earn/lost exchanging money on different dates.
